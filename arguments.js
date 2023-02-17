@@ -1,0 +1,6 @@
+module.exports = [
+  150,
+  ["0x2e90D10b191F09D260207Aa1D741e4800a373A42"], //proposer
+  ["0x2e90D10b191F09D260207Aa1D741e4800a373A42"], //executor
+  "0xdC4037fe4B73166bb0E635067B07403AF3644157", //metamask goreli acc
+];

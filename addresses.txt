@@ -1,0 +1,9 @@
+gnosisMultisigAddress= "0x2e90D10b191F09D260207Aa1D741e4800a373A42"
+proxy address (Box) = "0x34A9CCAECE2988918287F7848A635aDb37c1aA24" //version 1 smart contract address
+time-lock contract address = "0x045703ac3b753F5A64D30a4056BaD649F5997ad1"
+implementation address = "0xBAAC10AB27754a05A7F4a3e0432D5696CE874689" // this is address of implementation which is verified proxy contract in etherscan
+proxy admin = "0x582D2A45C7169870dD4286f1d8CC8B8396099Da4" // this is from .openzeppelin folder when proxy contract in the network is deployed it is generated
+BoxV2 = "0x698668e54E28DEda69f3A9D797e923796e84dC8c" //Version 2 smart contract address
+
+
+Hex Data = "0x99a88ec400000000000000000000000034a9ccaece2988918287f7848a635adb37c1aa24000000000000000000000000698668e54e28deda69f3a9d797e923796e84dc8c"
